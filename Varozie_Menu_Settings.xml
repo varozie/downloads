@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.4.160">
+	<StartScreenShortcut value="0"/>
+	<InvertMetroIcons value="0"/>
+	<MainMenuAnimation value="Slide"/>
+	<MainMenuAnimationSpeed value="550"/>
+	<SubMenuAnimation value="Slide"/>
+	<SubMenuAnimationAlways value="1"/>
+	<NumericSort value="1"/>
+	<FontSmoothing value="Default"/>
+	<MenuShadow value="0"/>
+	<EnableGlass value="1"/>
+	<GlassOverride value="1"/>
+	<GlassColor value="6908265"/>
+	<GlassOpacity value="100"/>
+	<SkinW7 value="KernelOS"/>
+	<SkinVariationW7 value=""/>
+	<SkinOptionsW7>
+	</SkinOptionsW7>
+	<CustomTaskbar value="0"/>
+	<SkipMetro value="1"/>
+	<OpenMouseMonitor value="0"/>
+	<MenuItems7>
+		<Line>Item1.Command=computer</Line>
+		<Line>Item1.Settings=NOEXPAND</Line>
+		<Line>Item2.Command=control_panel</Line>
+		<Line>Item2.Settings=TRACK_RECENT</Line>
+	</MenuItems7>
+</Settings>
